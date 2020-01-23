@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  firebaseAPIKey: 'AIzaSyCwRQfuVK5De5kjmFTbopSoE7LhnkL9gL0',
+  firebaseDbUrl: 'https://ng-ndesai-udemy-recipe.firebaseio.com'
 };
 
 /*
